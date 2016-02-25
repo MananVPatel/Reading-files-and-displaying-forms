@@ -1,0 +1,4 @@
+AH,Allen Hall,1500.00
+PH,Pike Hall,1600.00
+FH,Farthing Hall,1800.00
+US,University Suites,2500.00 
